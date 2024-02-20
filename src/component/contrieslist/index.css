@@ -1,0 +1,25 @@
+.list-container {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 17px;
+  margin-bottom: 18px;
+  border-bottom: 1px solid #94a3b8;
+  padding: 8px;
+}
+.name {
+  color: white;
+  padding-left: 20px;
+}
+.button {
+  background-color: #3b82f6;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-right: 18px;
+  padding-left: 18px;
+  color: #cbd5e1;
+  border: 0px;
+  border-radius: 8px;
+}
